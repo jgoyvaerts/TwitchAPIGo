@@ -2,7 +2,7 @@
 
 An API library for the Twitch API v3 written in Go.
 
-Should be mostly complete, let me know if something is missing and then I can add it (or feel free to create a pull request).
+Should be mostly complete, let me know if something is missing and I can add it (or feel free to create a pull request).
 
 ## Installation
 
